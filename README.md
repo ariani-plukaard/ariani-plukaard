@@ -7,7 +7,7 @@
 
 <p align="center">🌱 I’m currently learning **algorithms & data structures**</p>
 
-<p align="center">👨‍💻 All of my projects are available at [https://github.com/ariani-plukaard](https://github.com/ariani-plukaard)</p>
+<p align="center">👨‍💻 All of my projects are available on </p>[GitHub](https://github.com/ariani-plukaard)
 
 <p align="center">💬 Ask me about **my learning journey**</p>
 
