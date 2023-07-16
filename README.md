@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ariani</h1>
-<h3 align="center">A developer from Melbourne | Recent Le Wagon bootcamp graduate</h3>
+<h3 align="center">A junior developer from Melbourne</h3>
 <p align="center">~~~ My portfolio: https://troopl.com/ariani-plukaard ~~~</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariani-plukaard&label=Profile%20views&color=fd428e&style=flat" alt="ariani-plukaard" /> </p>
 
-<p align="center">🔭 I’m currently working on a Ruby on Rails + React fullstack project</p>
-<p align="center">🌱 I’m currently learning edX CS50, Harvard's Intro to Computer Science</p>
+<p align="center">📃 Completed a fullstack web development bootcamp at Le Wagon</p>
+<p align="center">🌱 I’m currently learning Application Development at RMIT</p>
 <p align="center">👨‍💻 All of my projects are available on GitHub</p>
-<p align="center">💬 I'm looking for a developer job</p>
 <p align="center">📄 Read about my experiences on LinkedIn</p>
 
 <h3 align="center">Connect with me:</h3>
