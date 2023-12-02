@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariani-plukaard&label=Profile%20views&color=fd428e&style=flat" alt="ariani-plukaard" /> </p>
 
 <p align="center">📃 Completed a fullstack web development bootcamp at Le Wagon</p>
-<p align="center">🌱 I’m currently learning Application Development at RMIT</p>
+<p align="center">🌱 I’m currently learning application development at RMIT</p>
 <p align="center">👨‍💻 All of my projects are available on GitHub</p>
 <p align="center">📄 Read about my experiences on LinkedIn</p>
 
