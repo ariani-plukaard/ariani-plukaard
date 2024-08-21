@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariani-plukaard&label=Profile%20views&color=fd428e&style=flat" alt="ariani-plukaard" /> </p>
 
-<p align="center">📃 Completed a fullstack web development bootcamp at Le Wagon, and a Grad Cert in application development at RMIT</p>
+<p align="center">📃 Fullstack web development bootcamp at Le Wagon</p>
+<p align="center">📃 Grad Cert in application development at RMIT</p>
 <p align="center">🌱 Currently in a junior full-stack role on .Net and React</p>
 <p align="center">👨‍💻 My projects are available on GitHub</p>
 <p align="center">📄 Read about my experiences on LinkedIn</p>
